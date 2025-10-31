@@ -15,7 +15,9 @@ The project unfolds through three phases of analysis reports:
 
 ## 🗃️ Project File Structure
 
-. ├── 📄 01_statistics.pdf ├── 📄 02_time_series_models.pdf ├── 📄 03_volatility_clustering.pdf ├── 💾 RBRTEd.csv ├── 💾 RWTCd.csv └── README.md
+📄 01_statistics.pdf
+📄 02_time_series_models.pdf
+📄 03_volatility_clustering.pdf
 
 ### Data Sources (Data)
 
